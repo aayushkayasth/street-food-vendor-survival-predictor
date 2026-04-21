@@ -141,7 +141,7 @@ Feel free to fork the repository and submit pull requests.
 
 ## 📬 Contact
 
-*(Add your LinkedIn / Email here)*
+linkedin : www.linkedin.com/in/ayush-kayasth-728aba373
 
 ---
 
