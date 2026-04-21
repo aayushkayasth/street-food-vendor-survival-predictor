@@ -14,16 +14,10 @@ The goal is to provide **actionable insights** for street food vendors and stake
 
 
 ---
-```markdown
+
 ## 🚀 Live Demo
 
-*Deployment in progress. You can run the app locally:*
-
-```bash
-cd deployment
-pip install -r requirements.txt
-streamlit run app.py
----
+👉 https://street-food-vendor-survival-predictor-njgsyyb4bj5m9uix8nsuqh.streamlit.app/
 
 ## 🧠 Problem Statement
 
